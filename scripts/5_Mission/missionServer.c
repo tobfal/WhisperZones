@@ -41,7 +41,7 @@ modded class MissionServer
 
         if(i > 0)
         {
-            Print("[WhisperZones] " + i + "WhisperZone(s) created");
+            Print("[WhisperZones] " + i + " WhisperZone(s) created");
         }
     }
 
